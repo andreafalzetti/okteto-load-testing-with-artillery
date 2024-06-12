@@ -1,6 +1,6 @@
 # Okteto Load Testing Sample using Artillery
 
-This example shows how to use the [Okteto CLI](https://github.com/okteto/okteto) to develop a Go Sample App directly in Kubernetes and leaveraging the `okteto test` command to run load testing using [Artillery.io](https://www.artillery.io/).
+This example shows how to use the [Okteto CLI](https://github.com/okteto/okteto) to develop a Go Sample App directly in Kubernetes and leveraging the `okteto test` command to run load testing using [Artillery.io](https://www.artillery.io/).
 
 ## How it works
 
